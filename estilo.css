@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body {
+    background-color: #b5cffffa;
+}
+
+.intro-pag-titulo {
+    text-align: center;
+    color: rgb(17, 17, 90);
+    font-size: 25px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.intro-pag-texto {
+    margin-left: 600px;
+    margin-right: 600px;
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Prata', serif;
+}
+
+.intro-pag-lista {
+    text-align: center;
+    color: rgb(17, 17, 90);
+    font-size: 20px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.intro-pag-jogos {
+    margin-left: 583px;
+    margin-right: 600px;
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Prata', serif;
+}
+
+.space {
+    text-align: center;
+    color: rgb(17, 17, 90);
+    font-size: 20px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.conteudo-padrao-space {
+    margin-left: 600px;
+    margin-right: 600px;
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Prata', serif;
+}
+
+.pac {
+    text-align: center;
+    color: rgb(17, 17, 90);
+    font-size: 20px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.conteudo-pacman {
+    margin-left: 600px;
+    margin-right: 600px;
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Prata', serif;
+}
+
+.conteudo-pm {
+    margin-left: 625px;
+    margin-right: 625px;
+    text-align: justify;
+    font-size: 16px;
+    font-family: 'Prata', serif;
+}
+
+.conteudo-dk {
+    margin-left: 600px;
+    margin-right: 600px;
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Prata', serif;
+}
+
+.conteudo-mb {
+    margin-left: 600px;
+    margin-right: 600px;
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Prata', serif;
+}
+
+.dk {
+    text-align: center;
+    color: rgb(17, 17, 90);
+    font-size: 20px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.mario {
+    text-align: center;
+    color: rgb(17, 17, 90);
+    font-size: 20px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.imagem-pacman {
+    margin-left: 630px;
+}
+
+.dk-imagem {
+    margin-left: 630px;
+}
+
+.imagem-mario {
+    margin-left: 630px;
+}
+
+footer {
+    text-align: center;
+}
